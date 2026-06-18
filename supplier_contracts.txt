@@ -1,0 +1,16 @@
+SUPPLIER CONTRACTS - ABC MANUFACTURING
+
+Supplier Reliability Score: 9.2 / 10
+
+Key Terms:
+- Standard lead time: 3 business days
+- Maximum monthly supply capacity: 2000 units
+- Penalty for delay: 5% per week
+
+Historical Performance:
+- On-time delivery rate: 97.8%
+- Quality rejection rate: 1.2%
+
+Risk Notes:
+- Slight delay risk during high demand seasons
+- Backup supplier available: XYZ Corp
