@@ -1,0 +1,23 @@
+DEMAND FORECAST - PRODUCT X
+
+Forecast Period: Next 7 Days
+
+Expected Demand:
+- Day 1: 60 units
+- Day 2: 70 units
+- Day 3: 80 units
+- Day 4: 90 units
+- Day 5: 100 units
+- Day 6: 110 units
+- Day 7: 120 units
+
+Total Weekly Demand Forecast: 630 units
+
+Trend:
+- Increasing demand due to seasonal promotion
+- Expected spike in weekend orders
+
+Confidence Level: 87%
+
+Risk:
+- Potential stockout if shipment delay exceeds 2 days
