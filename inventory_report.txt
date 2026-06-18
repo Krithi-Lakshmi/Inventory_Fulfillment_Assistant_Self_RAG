@@ -1,0 +1,20 @@
+INVENTORY REPORT - PRODUCT X
+
+Report Date: Current Day
+
+Warehouse Locations:
+- Boston DC: 300 units
+- New York DC: 120 units
+- Chicago DC: 80 units
+
+Total Available Inventory: 500 units
+
+Reserved Inventory:
+- Customer Orders Pending: 150 units
+- Internal Allocation: 50 units
+
+Net Available Inventory: 300 units
+
+Reorder Threshold: 200 units
+
+Status: Inventory is above minimum threshold but below optimal buffer level.
