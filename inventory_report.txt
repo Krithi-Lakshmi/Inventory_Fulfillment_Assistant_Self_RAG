@@ -18,3 +18,4 @@ Net Available Inventory: 300 units
 Reorder Threshold: 200 units
 
 Status: Inventory is above minimum threshold but below optimal buffer level.
+
