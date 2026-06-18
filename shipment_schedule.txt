@@ -1,0 +1,21 @@
+SHIPMENT SCHEDULE - PRODUCT X
+
+Supplier: ABC Manufacturing
+
+Incoming Shipments:
+
+1. Shipment ID: SHP-77821
+   Quantity: 200 units
+   Departure: Monday
+   Arrival: Wednesday
+   Status: In Transit
+
+2. Shipment ID: SHP-77822
+   Quantity: 150 units
+   Departure: Thursday
+   Arrival: Next Monday
+   Status: Scheduled
+
+Total Incoming Units: 350 units
+
+Risk Level: Low (98% on-time delivery rate)
